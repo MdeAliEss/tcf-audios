@@ -1,6 +1,6 @@
-# tcf-audio
+# tcf-audios
 
 Recordings for the TCF compréhension orale séries 41 and up, served by GitHub
-Pages for the app: `https://mdealiess.github.io/tcf-audio/comprehension-orale/<sid>/<qid>.mp3`.
+Pages for the app: `https://mdealiess.github.io/tcf-audios/comprehension-orale/<sid>/<qid>.mp3`.
 
 Made by `tools/audio/generate.py` in the tcf repo.
