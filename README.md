@@ -12,3 +12,6 @@ same name can take that long to reach the app.
   the captions still line up). A question repeated in two séries has a copy in
   each.
 - séries 41–80: made by `tools/audio/generate.py` in the tcf repo.
+
+`images/comprehension-orale/<sid>/<qid>.<ext>` holds the 97 pictures of the
+picture questions in séries 1–40, copied from the same site.
