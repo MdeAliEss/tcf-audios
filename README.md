@@ -13,5 +13,7 @@ repo this size: "Failed to fetch … from GitHub" for about 1 file in 4.)
   each.
 - séries 41–80: made by `tools/audio/generate.py` in the tcf repo.
 
-`images/comprehension-orale/<sid>/<qid>.<ext>` holds the 97 pictures of the
-picture questions in séries 1–40, copied from the same site.
+`images/comprehension-orale/<sid>/<qid>.<ext>` holds the pictures of the
+picture questions: 97 in séries 1–40, copied from the same site, and 50 in
+séries 41, 43 … 79, drawn by `tools/images/draw.py` in the tcf repo (Codex
+image generation).
