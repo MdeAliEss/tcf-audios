@@ -16,4 +16,5 @@ repo this size: "Failed to fetch … from GitHub" for about 1 file in 4.)
 `images/comprehension-orale/<sid>/<qid>.<ext>` holds the pictures of the
 picture questions: 97 in séries 1–40, copied from the same site, and 50 in
 séries 41, 43 … 79, drawn by `tools/images/draw.py` in the tcf repo (Codex
-image generation).
+image generation) and made to look printed like the others. Their clean
+drawings are in `drawings/comprehension-orale/`, which is not published.
